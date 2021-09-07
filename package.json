@@ -1,7 +1,16 @@
 {
   "name": "pterodactyl-api.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
+  "homepage": "https://github.com/DJCoolDev/pterodactyl-api.js",
+  "bugs": {
+    "url": "https://github.com/DJCoolDev/pterodactyl-api.js/issues",
+    "email": "info@djcool.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DJCoolDev/pterodactyl-api.js.git"
+  },
   "main": "index.js",
   "directories": {
     "example": "examples",
@@ -11,7 +20,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "DJCool",
-  "license": "ISC",
+  "license": "GNU LGPLv3",
   "dependencies": {
     "request-promise": "^4.2.6"
   }
